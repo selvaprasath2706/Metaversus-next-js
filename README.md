@@ -18,4 +18,4 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 ## Before build
 
-Before build update the index.js file within pages folder as same as app/page.js
+Before build update the index.js file within pages folder as same as app/page.
